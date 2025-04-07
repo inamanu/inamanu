@@ -7,15 +7,15 @@
 
 ---
 
-🔭 I’m currently working as a **Software Engineer at Icertis**, focused on building scalable enterprise-grade applications using Java, Spring Boot, ReactJS, and AWS.
+🔭 I’m currently working as a **Software Engineer at Icertis**, focused on building scalable enterprise-grade applications using ava, Spring Boot, ReactJS, .NET, C#, C++, AWS.
 
 🌱 Currently pursuing **AWS Certified Cloud Practitioner** & **AWS Developer – Associate**
 
 🏆 **Best Performer Award** – Two years in a row for leading critical system optimization and redesign projects
 
 📫 How to reach me:  
-- Email: [your-email@example.com]  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- Email: [namanupadhyay100@example.com]  
+- LinkedIn: [linkedin.com/in/namanupadhyay100](https://linkedin.com/in/namanupadhyay100)  
 - GitHub: [inamanu](https://github.com/inamanu)
 
 ---
@@ -23,6 +23,9 @@
 ### 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
