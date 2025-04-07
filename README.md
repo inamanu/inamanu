@@ -14,7 +14,7 @@
 🏆 **Best Performer Award** – Two years in a row for leading critical system optimization and redesign projects
 
 📫 How to reach me:  
-- Email: [namanupadhyay100@example.com]  
+- Email: namanupadhyay100@gmail.com  
 - LinkedIn: [linkedin.com/in/namanupadhyay100](https://linkedin.com/in/namanupadhyay100)  
 - GitHub: [inamanu](https://github.com/inamanu)
 
